@@ -1,0 +1,10 @@
+#magic number:
+P2
+#width and height:
+3 4
+#depth:
+15
+ 11   4   0 
+ 15   5   2 
+ 14   0   5 
+  0   1   4 
